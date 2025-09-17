@@ -1,0 +1,87 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kancharlapalli sai sankar- Resume</title>
+</head>
+<body>
+
+<header>
+<h1>Kancharlapalli sai sankar</h1>
+<p>Developer</p>
+<p>Email: saisankar348@gmail.com | Phone: +91 6303112564 | LinkedIn: linkedin.com/in/saisankar| GitHub: github.com/saisankar</p>
+</header>
+
+<hr>
+
+<section>
+<h2>Summary</h2>
+<p>A passionate and results-driven developer with experience in building and deploying web applications. I am a quick learner with a strong desire to create user-friendly and efficient solutions. Eager to contribute to a collaborative team environment and grow my skills.</p>
+</section>
+
+<hr>
+
+<section>
+<h2>Education</h2>
+<ul>
+<li>
+<strong>Bachelor of Technology in Computer Science</strong><br>SVIET COLLEGE<br>
+2024 - 2027
+</li>
+</ul>
+</section>
+
+<hr>
+
+<section>
+<h2>Internship Experience</h2>
+<ul>
+<li>
+<h3>AI-ML Virtual Internship</h3>
+<p><strong>Eduskills</strong> | July- September 2024</p>
+<ul>
+<li>Understand AI/ML fundamentals.</li>
+<li>Work with popular AI/ML frameworks</li>
+<li>Gain practical coding experience.</li>
+</ul>
+</li>
+</ul>
+</section>
+
+<hr>
+
+<section>
+<h2>Skills</h2>
+<ul>
+<li><strong>Technical Skills:</strong> HTML, CSS, JavaScript, React, Node.js, Python, Django, SQL, Git</li>
+<li><strong>Soft Skills:</strong> Communication, Problem-Solving, Teamwork, Time Management, Adaptability</li>
+</ul>
+</section>
+
+<hr>
+
+<section>
+<h2>Projects</h2>
+<article>
+<h3>1. Predictive Analytics for Customer Churn</h3>
+<p>Build a machine learning model to predict customer churn for a business or service.</p>
+</article>
+<article>
+<h3>2. Image Classification with Convolutional Neural Networks (CNNs)</h3>
+<p>This project involves using deep learning techniques to classify images. Interns will train a CNN on a labeled dataset of images (such as CIFAR-10, which includes categories like airplanes, cars, and birds). The goal is to create a model that can accurately predict the class of an image from the dataset..</p>
+</article>
+</section>
+
+<hr>
+
+<footer>
+<h3>Certifications & Achievements</h3>
+<ul>
+<li>AI-ML Virtual Internship </li>
+<li>Google Ai-Ml Internship</li>
+</ul>
+<p>&copy; 2027 Kancharlapalli sai sankar. All Rights Reserved.</p>
+</footer>
+
+</body
